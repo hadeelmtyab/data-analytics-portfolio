@@ -39,19 +39,18 @@ The project transforms sales data into meaningful visual insights to support dat
 
 Provides an overview of sales performance, trends, and key business metrics.
 
-![Sales Dashboard](Screenshots/Sales_Dashboard.png)
-
+![Sales Dashboard](Sales_Dashboard.png)
 ### 2. Profit Dashboard
 
 Focuses on profitability analysis and business performance.
 
-![Profit Dashboard](Screenshots/Profit_Dashboard.png)
+![Profit Dashboard](Profit_Dashboard.png)
 
 ### 3. Details Dashboard
 
 Provides detailed item-level sales analysis with interactive filtering capabilities.
 
-![Details Dashboard](Screenshots/Details_Dashboard.png)
+![Details Dashboard](Details_Dashboard.png)
 
 ## Dashboard Features
 
